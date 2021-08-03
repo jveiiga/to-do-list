@@ -25,7 +25,7 @@ const App = () => {
     //   title: "Ler Livros",
     //   completed: true,
     // },
-  ]);
+  ]); 
 
   // useEffect(() => {
   //   const fetchTaks = async () => {
