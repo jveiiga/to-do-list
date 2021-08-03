@@ -16,6 +16,10 @@
 ![project-to-do-list-checked](https://user-images.githubusercontent.com/57195630/128094093-8034c334-ca9c-437a-a3e5-3f23a6af8804.png)
 ![project-to-do-list-details](https://user-images.githubusercontent.com/57195630/128094297-376377d9-7794-4ee4-b599-2a1fdc9d621e.png)
 
+## 
+## 🗺 Mapa do fluxo de dados conforme meu entendimento
+![whimsical com_components-PKd439FPAcXD7UmCcyKzN7 (1)](https://user-images.githubusercontent.com/57195630/128097196-8c50fe62-f866-4d9b-ad09-da003e0bea3f.png)
+
 
 ## 🌐 Linguagens e tecnologias utilizadas
 
