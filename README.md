@@ -8,7 +8,7 @@
 <h3 align="center">Não foi levado em consideração conceitos Mobile First.<h3/>
 <h3 align="center">Foi levado em consideração HTML semântico.<h3/>
 
-<h2 align="center"><a href="to-do-list-eta-six.vercel.app" alt="To do list" target="_blank">Clique aqui para ver meu projeto final!<a/><h2/> 
+<h2 align="center"><a href="https://to-do-list-jveiiga.vercel.app/" alt="To do list" target="_blank">Clique aqui para ver meu projeto final!<a/><h2/> 
   
 ## 🖥  Imagem
 
