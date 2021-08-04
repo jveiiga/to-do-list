@@ -42,7 +42,7 @@
     [ ] Módulo 07: Entendendo useState
     [ ] Módulo 08: Entendendo Props
     [ ] Módulo 09: Eventos de Click 
-    [ ] Módulo 10: Style Components
+    [ ] Módulo 10: Styled Components
     [ ] Módulo 11: Utilzando lib react-icon
     [ ] Módulo 12: Entendendo React Router Dom
     [ ] Módulo 13: Parâmetros de URL
