@@ -15,11 +15,8 @@
 ![project-to-do-list](https://user-images.githubusercontent.com/57195630/128089080-762b147c-06e9-4b3c-9b6a-4e5c2c947e00.png)
 ![project-to-do-list-checked](https://user-images.githubusercontent.com/57195630/128094093-8034c334-ca9c-437a-a3e5-3f23a6af8804.png)
 
-## 
-## 🗺 Mapa do fluxo de dados conforme meu entendimento
-![whimsical com_components-PKd439FPAcXD7UmCcyKzN7 (1)](https://user-images.githubusercontent.com/57195630/128097196-8c50fe62-f866-4d9b-ad09-da003e0bea3f.png)
-
-
+##
+  
 ## 🌐 Linguagens e tecnologias utilizadas
 
 <a href="https://github.com/jveiiga/project-anima/blob/main/index.html" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"  alt="html5" width="40" height="40" /> <a/> 
