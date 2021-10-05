@@ -14,7 +14,6 @@
 
 ![project-to-do-list](https://user-images.githubusercontent.com/57195630/128089080-762b147c-06e9-4b3c-9b6a-4e5c2c947e00.png)
 ![project-to-do-list-checked](https://user-images.githubusercontent.com/57195630/128094093-8034c334-ca9c-437a-a3e5-3f23a6af8804.png)
-![project-to-do-list-details](https://user-images.githubusercontent.com/57195630/128094297-376377d9-7794-4ee4-b599-2a1fdc9d621e.png)
 
 ## 
 ## 🗺 Mapa do fluxo de dados conforme meu entendimento
