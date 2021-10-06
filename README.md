@@ -1,4 +1,4 @@
-<h1 align="center">Project To do List&nbsp📝 <h1/>
+<h1 align="center">Project To do List &nbsp📝 <h1/>
 
   <img alt="GitHub" src="https://img.shields.io/github/license/jveiiga/to-do-list">
   <img alt="GitHub" src="https://img.shields.io/badge/jveiiga-project%20to do list-yellow">
@@ -12,9 +12,15 @@
   
 ## 🖥  Imagem
 
+<details>
+  
+<summary>Clique para ver imagens do projeto</summary>
+  
 ![project-to-do-list](https://user-images.githubusercontent.com/57195630/128089080-762b147c-06e9-4b3c-9b6a-4e5c2c947e00.png)
 ![project-to-do-list-checked](https://user-images.githubusercontent.com/57195630/128094093-8034c334-ca9c-437a-a3e5-3f23a6af8804.png)
 
+</details>  
+  
 ##
   
 ## 🌐 Linguagens e tecnologias utilizadas
