@@ -3,12 +3,12 @@
   <img alt="GitHub" src="https://img.shields.io/github/license/jveiiga/to-do-list">
   <img alt="GitHub" src="https://img.shields.io/badge/jveiiga-project%20to do list-yellow">
  
-<h3 align="center"><a href="https://www.youtube.com/watch?v=ErjWNvP6mko" target="_blank">Layout Project</a><h3/> 
+<h3 align="center"><a target="_blank" href="https://www.youtube.com/watch?v=ErjWNvP6mko">Layout Project</a><h3/> 
 <h3 align="center">Projeto finalizado com o intuito de aprimorar minha base de conhecimento.<h3/>
 <h3 align="center">Não foi levado em consideração conceitos Mobile First.<h3/>
 <h3 align="center">Foi levado em consideração HTML semântico.<h3/>
 
-<h2 align="center"><a href="https://to-do-list-jveiiga.vercel.app/" alt="To do list" target="_blank">Clique aqui para ver meu projeto final!<a/><h2/> 
+<h2 align="center"><a target="_blank" href="https://to-do-list-jveiiga.vercel.app/" alt="To do list">Clique aqui para ver meu projeto final!<a/><h2/> 
   
 ## 🖥  Imagem
 
