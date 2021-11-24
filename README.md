@@ -1,7 +1,7 @@
 <h1 align="center">Project To do List &nbsp📝 <h1/>
 
   <img alt="GitHub" src="https://img.shields.io/github/license/jveiiga/to-do-list">
-  <img alt="GitHub" src="https://img.shields.io/badge/jveiiga-project%20to do list-yellow">
+  <img alt="GitHub" src="https://img.shields.io/badge/jveiiga-project%20to do list-red">
  
 <h3 align="center"><a target="_blank" href="https://www.youtube.com/watch?v=ErjWNvP6mko">Layout Project</a><h3/> 
 <h3 align="center">Projeto finalizado com o intuito de aprimorar minha base de conhecimento.<h3/>
