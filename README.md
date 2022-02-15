@@ -26,7 +26,7 @@
 ## 🌐 Linguagens e tecnologias utilizadas
 
 <a href="https://github.com/jveiiga/project-anima/blob/main/index.html" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"  alt="html5" width="40" height="40" /> <a/> 
-<a href="https://github.com/jveiiga/project-anima/blob/main/style.css" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /> </a> <img src="https://miro.medium.com/max/318/1*p1TndLk3UsGPBsM7qHPZIw.png" alt="css3" width="50" height="40"/>
+<a href="https://github.com/jveiiga/project-anima/blob/main/style.css" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /> </a> 
 <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="figma" width="40" height="40" /> </a>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
 
@@ -44,11 +44,10 @@
     [ ] Módulo 07: Entendendo useState
     [ ] Módulo 08: Entendendo Props
     [ ] Módulo 09: Eventos de Click 
-    [ ] Módulo 10: Styled Components
-    [ ] Módulo 11: Utilzando lib react-icon
-    [ ] Módulo 12: Entendendo React Router Dom
-    [ ] Módulo 13: Parâmetros de URL
-    [ ] Módulo 14: Conceitos de API, axios e useEffect
+    [ ] Módulo 10: Utilzando lib react-icon
+    [ ] Módulo 11: Entendendo React Router Dom
+    [ ] Módulo 12: Parâmetros de URL
+    [ ] Módulo 13: Conceitos de axios e useEffect
  
  ## 
  ## <h3>🤓 Aprender<h3/>
@@ -57,7 +56,7 @@
     - Utilizar rotas com React Router Dom
     - Implementações por Id
     - Aprimorar habilidades com Hooks(useState, useEffect, useHistory)
-    - Entender melhor como funciona get, Fetch, Api, axios
+    - Entender melhor como funciona os verbos HTTP, Fetch e Api
     
  ## Desafio
     - Trabalhar com React Mobile First
